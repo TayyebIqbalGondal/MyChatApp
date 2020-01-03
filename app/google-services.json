@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970584303650",
+    "firebase_url": "https://mychatapp-1a029.firebaseio.com",
+    "project_id": "mychatapp-1a029",
+    "storage_bucket": "mychatapp-1a029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970584303650:android:3862e060677c0adb04c27b",
+        "android_client_info": {
+          "package_name": "com.tayyeb.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970584303650-tjj9v4kburakulfsl8901a75pfn079np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tayyeb.mychatapp",
+            "certificate_hash": "3c9b5c6b2c6886f32d29c3ad20099201e3844557"
+          }
+        },
+        {
+          "client_id": "970584303650-p0fs4ilfpem9scp1qng5jcdl3gkf7fut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswSZgW3VLDcwSMKJI3TvZUsZEft9LYdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970584303650-p0fs4ilfpem9scp1qng5jcdl3gkf7fut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
